@@ -61,7 +61,7 @@
                         <div class="row">
                             <div class="col-md-9 col-sm-7 navigation">
                                 <div class="logo navbar-brand">
-                                    <h2 class="logo-title secondery-font"> <a href="index.html"> <img alt="<José Vieira Web Developer>" src="assets/img/logo/logo.png"></a> </h2>
+                                    <h2 class="logo-title secondery-font"> <a href="/"> <img alt="<José Vieira Web Developer>" src="assets/img/logo/logo.png"></a> </h2>
                                 </div>
                             </div>
                             <div class="col-md-3 col-sm-5 login-register text-right">
