@@ -65,7 +65,7 @@
                                 </div>
                             </div>
                             <div class="col-md-3 col-sm-5 login-register text-right">
-                                <ul class="secondery-font">
+                                <ul class="secondery-font hidden-xs">
                                     <li> <a href="mailto:hello@josevieira.me" class="theme-color-bg white-color"> <b>Contact</b> </a> </li>
                                 </ul>
                             </div>
