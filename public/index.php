@@ -65,7 +65,7 @@
                                 </div>
                             </div>
                             <div class="col-md-3 col-sm-5 login-register text-right">
-                                <ul class="secondery-font hidden-xs">
+                                <ul class="secondery-font ">
                                     <li> <a href="mailto:hello@josevieira.me" class="theme-color-bg white-color"> <b>Contact</b> </a> </li>
                                 </ul>
                             </div>
@@ -113,7 +113,7 @@
                     <!-- Brand Slider Start -->
                     <section id="brand"  class="space-bottom-20">
                         <div class="brand-slider  theme-slider white-color">
-                            <div class="item"> <h5 class=""><i class="fa fa-skype"></i> Skype: hello@josevieira.me </h5> </div>
+                            <div class="item"> <h5 class=""><i class="fa fa-skype"></i> Skype: josevieriame </h5> </div>
                             <div class="item"> <h5><i class="fa fa-github"></i> Github: <a class="white-color" target="_blank" href="https://github.com/vieirasantosn">vieirasantosn</a></h5> </div>
                             <div class="item"> <h5><i class="fa fa-linkedin"></i> Linkedin: <a class="white-color" target="_blank" href="https://linkedin.com/in/vieirasantosn">vieirasantosn</a></h5> </div>
                             <div class="item"> <h5><i class="fa fa-envelope"></i> <a class="white-color" href="mailto:hello@josevieira.me">hello@josevieira.me</a></h5> </div>
