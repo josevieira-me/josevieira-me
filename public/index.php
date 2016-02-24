@@ -113,11 +113,11 @@
                     <!-- Brand Slider Start -->
                     <section id="brand"  class="space-bottom-20">
                         <div class="brand-slider  theme-slider white-color">
-                            <div class="item"> <h5 class=""><i class="fa fa-skype"></i> Skype: vieirasantosn </h5> </div>
-                            <div class="item"> <h5><i class="fa fa-github"></i> Github: <a class="white-color" href="https://github.com/vieirasantosn">vieirasantosn</a></h5> </div>
-                            <div class="item"> <h5><i class="fa fa-linkedin"></i> Linkedin: <a class="white-color" href="https://linkedin.com/in/vieirasantosn">vieirasantosn</a></h5> </div>
+                            <div class="item"> <h5 class=""><i class="fa fa-skype"></i> Skype: hello@josevieira.me </h5> </div>
+                            <div class="item"> <h5><i class="fa fa-github"></i> Github: <a class="white-color" target="_blank" href="https://github.com/vieirasantosn">vieirasantosn</a></h5> </div>
+                            <div class="item"> <h5><i class="fa fa-linkedin"></i> Linkedin: <a class="white-color" target="_blank" href="https://linkedin.com/in/vieirasantosn">vieirasantosn</a></h5> </div>
                             <div class="item"> <h5><i class="fa fa-envelope"></i> <a class="white-color" href="mailto:hello@josevieira.me">hello@josevieira.me</a></h5> </div>
-                            <div class="item"> <h5><i class="fa fa-facebook"></i> Facebook: <a class="white-color" href="https://facebook.com/vieirasantosn">vieirasantosn</a></h5> </div>
+                            <div class="item"> <h5><i class="fa fa-facebook"></i> Facebook: <a class="white-color" target="_blank" href="https://facebook.com/vieirasantosn">vieirasantosn</a></h5> </div>
                             <div class="item"> <h5><i class="fa fa-phone"></i> Phone: +55 64 8147-7203</h5> </div>
                         </div>
                     </section>
