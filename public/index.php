@@ -118,7 +118,7 @@
                             <div class="item"> <h5><i class="fa fa-linkedin"></i> Linkedin: <a class="white-color" target="_blank" href="https://linkedin.com/in/josevieirame">josevieirame</a></h5> </div>
                             <div class="item"> <h5><i class="fa fa-envelope"></i> <a class="white-color" href="mailto:hello@josevieira.me">hello@josevieira.me</a></h5> </div>
                             <div class="item"> <h5><i class="fa fa-facebook"></i> Facebook: <a class="white-color" target="_blank" href="https://facebook.com/josevieirame">josevieirame</a></h5> </div>
-                            <div class="item"> <h5><i class="fa fa-phone"></i> Phone: +55 64 8147-7203</h5> </div>
+                            <div class="item"> <h5><i class="fa fa-phone"></i> Phone: +55 64 98147-7203</h5> </div>
                         </div>
                     </section>
                     <!-- / Brand Slider Ends -->
